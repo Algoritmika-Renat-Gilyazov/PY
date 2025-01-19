@@ -1,0 +1,1 @@
+add a system environment variable called PYPROGRAMPATH with value: installation location
