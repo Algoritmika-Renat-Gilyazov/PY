@@ -1,4 +1,5 @@
 import json
+import libs as lib
 try:
     import eel
 except ImportError:
@@ -43,3 +44,10 @@ try:
 except:
     print("Try remove `cache.json`")
     exit(1)
+
+
+
+
+
+
+lib.Math.sum(1, 2, 3)
